@@ -1,3 +1,14 @@
+# Installation
+The command below generates a *.vsix file
+```
+vsce package
+```
+```
+code --install-extension <my-generated-file>.vsix
+```
+
+
+
 [![Visual&nbsp;Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/DigitalBrainstem.javascript-ejs-support.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
 [![License](https://img.shields.io/github/license/Digitalbrainstem/ejs-grammar.svg)](https://github.com/Digitalbrainstem/ejs-grammar/blob/master/LICENSE)
 
